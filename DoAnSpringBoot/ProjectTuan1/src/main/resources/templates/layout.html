@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en"
+      xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap"
+          rel="stylesheet">
+    <title layout:title-pattern="$CONTENT_TITLE | $LAYOUT_TITLE">Tale SEO Agency</title>
+
+    <link th:href="@{/vendor/bootstrap/css/bootstrap.min.css}" th:href="@{/vendor/bootstrap/css/bootstrap.min.css}" rel="stylesheet">
+    <link rel="stylesheet" th:href="@{/assets/css/fontawesome.css}">
+    <link rel="stylesheet" th:href="@{/assets/css/templatemo-tale-seo-agency.css}">
+    <link rel="stylesheet" th:href="@{/assets/css/owl.css}">
+    <link rel="stylesheet" th:href="@{/assets/css/animate.css}">
+    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
+
+    <th:block layout:fragment="css-extra"></th:block>
+
+</head>
+<body>
+
+<div th:replace="~{fragments/preloader :: preloader}"></div>
+<header th:replace="~{fragments/header :: header}"></header>
+<div layout:fragment="content">
+</div>
+<footer th:replace="~{fragments/footer :: footer}"></footer>
+<script th:src="@{/vendor/jquery/jquery.min.js}" th:src="@{/vendor/jquery/jquery.min.js}"></script>
+<script th:src="@{/vendor/bootstrap/js/bootstrap.min.js}" th:src="@{/vendor/bootstrap/js/bootstrap.min.js}"></script>
+
+<script th:src="@{/assets/js/isotope.min.js}"></script>
+<script th:src="@{/assets/js/owl-carousel.js}"></script>
+<script th:src="@{/assets/js/tabs.js}"></script>
+<script th:src="@{/assets/js/popup.js}"></script>
+<script th:src="@{/assets/js/custom.js}"></script>
+
+<th:block layout:fragment="js-extra"></th:block>
+
+</body>
+</html>
