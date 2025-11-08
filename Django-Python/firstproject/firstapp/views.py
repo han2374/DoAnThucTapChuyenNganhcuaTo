@@ -6,7 +6,7 @@ from django.shortcuts import render, HttpResponse
 def index(request):
     return HttpResponse("Hello, world. You're at the polls index.")
 def contract(request):
-    return HttpResponse("contract")
+    return HttpResponse("contract1")
 def polls(request):
     return HttpResponse("polls")
 

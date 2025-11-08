@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="908516c4-ecd9-41d7-b5f6-0d82364bc4f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/java/com/DATTTN/ProjectTuan1/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/css/sb-admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/css/sb-admin.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/js/sb-admin-charts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/js/sb-admin-charts.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/js/sb-admin-datatables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/js/sb-admin-datatables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/js/sb-admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/js/sb-admin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/pug/blank.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/pug/cards.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/pug/charts.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/pug/forgot-password.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/pug/includes/css/core.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/pug/includes/css/custom.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/pug/includes/footer.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/pug/includes/js/core.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/pug/includes/js/custom.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/pug/includes/modals/logout.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/pug/includes/navbar.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/pug/includes/scroll-to-top.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/pug/index.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/pug/login.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/pug/navbar.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/pug/register.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/pug/tables.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/scss/_cards.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/scss/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/scss/_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/scss/_login.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/scss/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/scss/navbar/_navbar_colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/scss/navbar/_navbar_fixed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/scss/navbar/_navbar_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/scss/navbar/_navbar_static.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/scss/navbar/_navbar_toggle.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/scss/sb-admin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/chart.js/Chart.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/chart.js/Chart.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/chart.js/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/chart.js/Chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/datatables/dataTables.bootstrap4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/datatables/dataTables.bootstrap4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/datatables/jquery.dataTables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/font-awesome/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/jquery-easing/jquery.easing.compatibility.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/jquery-easing/jquery.easing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/jquery-easing/jquery.easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/templates/admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/templates/admin/category.products/category-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/templates/admin/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/templates/admin/products/product-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaocaoDoAnTuan1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Django-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Django-Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstproject/firstapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/firstapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/java/com/DATTTN/ProjectTuan1/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/java/com/DATTTN/ProjectTuan1/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/jquery/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/static/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/templates/home/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/templates/faqs.html" beforeDir="false" afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/templates/home/faqs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../DoAnSpringBoot/ProjectTuan1/src/main/resources/templates/home/layout.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="35926dV8wWJiQXKJYd8atyNpqhQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/LEARN(STU)/DoAnThucTapChuyenNganhcuaTo/Django-Python"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="908516c4-ecd9-41d7-b5f6-0d82364bc4f7" name="Changes" comment="" />
+      <created>1762507792663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762507792663</updated>
+    </task>
+    <servers />
+  </component>
+</project>
