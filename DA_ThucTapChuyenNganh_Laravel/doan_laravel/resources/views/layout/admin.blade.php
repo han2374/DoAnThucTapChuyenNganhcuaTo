@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="keywords" content="tailwind,tailwindcss,tailwind css,css,starter template,free template,admin templates, admin template, admin dashboard, free tailwind templates, tailwind example">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <base href="{{asset('public/')}}">
     <!-- Css -->
     <link rel="stylesheet" href="./dist/styles.css">
@@ -24,14 +25,14 @@
             <div class="flex justify-between">
                 <div class="p-1 mx-3 inline-flex items-center">
                     <i class="fas fa-bars pr-2 text-white" onclick="sidebarToggle()"></i>
-                    <h1 class="text-white p-2">Logo</h1>
+                    <h1 class="text-white p-2">VideoViewer's To Han</h1>
                 </div>
                 <div class="p-1 flex flex-row items-center">
-                    <a href="https://github.com/tailwindadmin/admin" class="text-white p-2 mr-2 no-underline hidden md:block lg:block">Github</a>
+                    <a href="https://github.com/han2374" class="text-white p-2 mr-2 no-underline hidden md:block lg:block">Github</a>
 
 
-                    <img onclick="profileToggle()" class="inline-block h-8 w-8 rounded-full" src="https://avatars0.githubusercontent.com/u/4323180?s=460&v=4" alt="">
-                    <a href="#" onclick="profileToggle()" class="text-white p-2 no-underline hidden md:block lg:block">Adam Wathan</a>
+                    <img onclick="profileToggle()" class="inline-block h-8 w-8 rounded-full" src="https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/466510440_3727262837603828_1871458338948993562_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=vp7ycNDyy1sQ7kNvwHjrNEb&_nc_oc=AdmDHjLTRckp5ITh57r8miZdRdk7qb2HiWlpbnU0ntjhEJQ98GcrRWliGAISFsx1Ikk&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=2tyCLbkyuxYehwp9b4f8Xg&oh=00_AfhqoAXMbs70fx1ktKq_kYe8o5oFHa_FMgt2E79WDfW_oQ&oe=6918F407" alt="">
+                    <a href="#" onclick="profileToggle()" class="text-white p-2 no-underline hidden md:block lg:block">Tô Nguyễn Gia Hân</a>
                     <div id="ProfileDropDown" class="rounded hidden shadow-md bg-white absolute pin-t mt-12 mr-1 pin-r">
                         <ul class="list-reset">
                           <li><a href="#" class="no-underline px-4 py-2 block text-black hover:bg-grey-light">My account</a></li>
@@ -83,17 +84,17 @@
                         </a>
                     </li>
                     <li class="w-full h-full py-3 px-2 border-b border-light-border">
-                        <a href="ui.html"
+                        <a href="{{route('category')}}"
                            class="font-sans font-hairline hover:font-normal text-sm text-nav-item no-underline">
                             <i class="fab fa-uikit float-left mx-2"></i>
-                            Ui components
+                            Categories
                             <span><i class="fa fa-angle-right float-right"></i></span>
                         </a>
                     </li>
                     <li class="w-full h-full py-3 px-2 border-b border-300-border">
-                        <a href="modals.html" class="font-sans font-hairline hover:font-normal text-sm text-nav-item no-underline">
+                        <a href="{{route('product')}}" class="font-sans font-hairline hover:font-normal text-sm text-nav-item no-underline">
                             <i class="fas fa-square-full float-left mx-2"></i>
-                            Modals
+                            Products
                             <span><i class="fa fa-angle-right float-right"></i></span>
                         </a>
                     </li>

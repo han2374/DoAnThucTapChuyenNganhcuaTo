@@ -45,7 +45,7 @@
                 <div class="col-lg-6">
                     <div class="about__text">
                         <div class="section-title">
-                            <span>About videograph</span>
+                            <span>About VideoViewer's To Han</span>
                             <h2>WHo we are?</h2>
                         </div>
                         <div class="row">
@@ -54,8 +54,8 @@
                                     <div class="services__item__icon">
                                         <img src="img/icons/si-3.png" alt="">
                                     </div>
-                                    <h4>Video distribution</h4>
-                                    <p>Whether you’re halfway through the editing process, or you.</p>
+                                    <h4>Video Selling</h4>
+                                    <p>Cung cấp các sản phẩm và tài nguyên độc quyền nhằm nâng cao kỹ năng và hiệu suất của người dùng trong việc sáng tạo hoặc tiêu thụ nội dung video.</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-6">
@@ -63,15 +63,13 @@
                                     <div class="services__item__icon">
                                         <img src="img/icons/si-4.png" alt="">
                                     </div>
-                                    <h4>Video hosting</h4>
-                                    <p>Whether you’re halfway through the editing process, or you.</p>
+                                    <h4>Video Consulting</h4>
+                                    <p>Cung cấp lời khuyên chuyên môn cá nhân hóa, giúp người dùng xác định lộ trình xem/sáng tạo nội dung video phù hợp nhất với mục tiêu của họ.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="about__text__desc">
-                            <p>Formed in 2006 by Matt Hobbs and Cael Jones, Videoprah is an award-winning, full-service
-                                production company specializing in commercial, broadcast, tourism & action sport video
-                                production services has been featured.</p>
+                            <p>Tại VideoViewer’s TÔ HÂN, chúng tôi tin rằng giữa hàng tỷ video trên YouTube, mỗi người dùng xứng đáng tìm thấy những nội dung thực sự yêu thích và có giá trị. Chúng tôi không chỉ là một nền tảng xem video, mà còn là Trung Tâm Giải Pháp Chuyên Môn tiên phong kết hợp giữa công nghệ gợi ý thông minh và dịch vụ tư vấn cá nhân hóa.</p>
                         </div>
                     </div>
                 </div>

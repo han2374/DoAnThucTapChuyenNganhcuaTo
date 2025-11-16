@@ -100,8 +100,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="footer__option__item">
                             <h5>About us</h5>
-                            <p>Formed in 2006 by Matt Hobbs and Cael Jones, Videoprah is an award-winning, full-service
-                                production company specializing.</p>
+                            <p>Tại VideoViewer’s TÔ HÂN, chúng tôi tin rằng giữa hàng tỷ video trên YouTube, mỗi người dùng xứng đáng tìm thấy những nội dung thực sự yêu thích và có giá trị. Chúng tôi không chỉ là một nền tảng xem video, mà còn là Trung Tâm Giải Pháp Chuyên Môn tiên phong kết hợp giữa công nghệ gợi ý thông minh và dịch vụ tư vấn cá nhân hóa.</p>
                             <a href="#" class="read__more">Read more <span class="arrow_right"></span></a>
                         </div>
                     </div>
@@ -129,8 +128,8 @@
                     </div>
                     <div class="col-lg-4 col-md-12">
                         <div class="footer__option__item">
-                            <h5>Newsletter</h5>
-                            <p>Videoprah is an award-winning, full-service production company specializing.</p>
+                            <h5>VideoViewer's Tô Hân</h5>
+                            <p>"Từ vô vàn video đến những nội dung thực sự đáng xem: Chúng tôi là chuyên gia định hướng gu xem của bạn."</p>
                             <form action="#">
                                 <input type="text" placeholder="Email">
                                 <button type="submit"><i class="fa fa-send"></i></button>

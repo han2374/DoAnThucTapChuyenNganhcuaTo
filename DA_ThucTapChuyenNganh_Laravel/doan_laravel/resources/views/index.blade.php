@@ -396,7 +396,7 @@
             <div class="row">
                 <div class="col-lg-8">
                     <div class="callto__text">
-                        <h2>Fresh Ideas, Fresh Moments Giving Wings to your Stories.</h2>
+                        <h2>"Từ vô vàn video đến những nội dung thực sự đáng xem: Chúng tôi là chuyên gia định hướng gu xem của bạn."</h2>
                         <p>VideoViewer's To Han, Best videoviewer to work 2025</p>
                         <a href="#">Start your stories</a>
                     </div>
