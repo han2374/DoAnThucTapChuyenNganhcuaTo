@@ -56,10 +56,48 @@
                                         <li><a href="{{route('blog-details')}}" class="nav-item nav-link">Blog Details</a></li>
                                     </ul>
                                 </li>
+                                
                                 <li><a href="{{route('contact')}}" class="nav-item nav-link">Contact</a></li>
+                                   <li class="nav-item dropdown">
+                                       <a class="nav-link" href="#" id="accountDropdown" style="cursor:pointer;">
+                                           Account
+                                       </a>
+                                       <div class="dropdown-menu account-menu" aria-labelledby="accountDropdown" style="display:none; position:absolute; left:0; top:100%; min-width:160px;">
+                                           @guest
+                                               <a class="dropdown-item" href="{{ route('login') }}">Login</a>
+                                           @else
+                                               <a class="dropdown-item" href="{{ route('account.info') }}">Account Information</a>
+                                               <form method="POST" action="{{ route('logout') }}" style="display:inline;">
+                                                   @csrf
+                                                   <button class="dropdown-item" type="submit">Logout</button>
+                                               </form>
+                                           @endguest
+                                       </div>
+                                   </li>
                             </ul>
                         </nav>
                         <div class="header__nav__social">
+                                                    <style>
+                                                    .nav-item.dropdown:hover .account-menu {
+                                                        display: block !important;
+                                                    }
+                                                    .nav-item.dropdown .account-menu {
+                                                        transition: all 0.2s;
+                                                        box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+                                                        background: #fff;
+                                                        border-radius: 4px;
+                                                        padding: 0.5rem 0;
+                                                        z-index: 1000;
+                                                    }
+                                                    .nav-item.dropdown .dropdown-item {
+                                                        color: #333;
+                                                        padding: 8px 20px;
+                                                        text-decoration: none;
+                                                    }
+                                                    .nav-item.dropdown .dropdown-item:hover {
+                                                        background: #f0f0f0;
+                                                    }
+                                                    </style>
                             <a href="#"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-twitter"></i></a>
                             <a href="#"><i class="fa fa-dribbble"></i></a>

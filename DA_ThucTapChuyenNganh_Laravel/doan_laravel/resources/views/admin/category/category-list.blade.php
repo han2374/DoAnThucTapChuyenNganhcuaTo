@@ -17,53 +17,21 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
-      <td><i class="fa-solid fa-eye text-primary"></i></td>
-      <td><i class="fa-solid fa-user-pen text-primary"></i></td>
-      <td><i class="fa-solid fa-trash text-primary"></i></td>
-    </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
-      <td><i class="fa-solid fa-eye-slash text-primary"></i></td>
-      <td><i class="fa-solid fa-user-pen text-primary"></i></td>
-      <td><i class="fa-solid fa-trash text-primary"></i></td>
-
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td>Sune</td>
-      <td>Doe</td>
-      <td>@social</td>
-      <td><i class="fa-solid fa-eye text-primary"></i></td>
-      <td><i class="fa-solid fa-user-pen text-primary"></i></td>
-      <td><i class="fa-solid fa-trash text-primary"></i></td>
-    </tr>
-        <tr>
-      <th scope="row">1</th>
-      <td>Jonh</td>
-      <td>Issac</td>
-      <td>@ij05</td>
-      <td><i class="fa-solid fa-eye text-primary"></i></td>
-      <td><i class="fa-solid fa-user-pen text-primary"></i></td>
-      <td><i class="fa-solid fa-trash text-primary"></i></td>
-    </tr>
-        <tr>
-      <th scope="row">1</th>
-      <td>To</td>
-      <td>Han</td>
-      <td>@harryon</td>
-      <td><i class="fa-solid fa-eye text-primary"></i></td>
-      <td><i class="fa-solid fa-user-pen text-primary"></i></td>
-      <td><i class="fa-solid fa-trash text-primary"></i></td>
-    </tr>
+    @forelse($categories as $object)
+      <tr>
+        <th scope="row">{{ $object->id }}</th>
+        <td>{{ $object->name }}</td>
+        <td></td>
+        <td></td>
+        <td><i class="fa-solid fa-eye text-primary"></i></td>
+        <td><i class="fa-solid fa-user-pen text-primary"></i></td>
+        <td><i class="fa-solid fa-trash text-primary"></i></td>
+      </tr>
+    @empty
+      <tr>
+        <td colspan="7"><h1>Chua co du lieu</h1></td>
+      </tr>
+    @endforelse
   </tbody>
 </table>
-</div>
-@endsection
+  @endsection
